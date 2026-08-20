@@ -160,10 +160,11 @@ body {
 }
 
 /* Colores de Iconos */
-.tiktok-color { color: #ff0050; }
+.tiktok-color { color: #9c0990; }
 .discord-color { color: #5865f2; }
 .insta-color { color: #e1306c; }
 .twitch-color { color: #a855f7; }
+.youtube-color { color: #ff0050; }
 
 /* Barra de Estado (HP y Mana) */
 .hud-status {
